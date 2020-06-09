@@ -1,0 +1,23 @@
+ *{
+    font-family: 'Architects Daughter', cursive;
+}
+h1 {
+color: darkorange;
+text-decoration: underline;
+font-family: Arial, Helvetica, sans-serif;
+}
+.my-first-class {
+    font-size: 32px;
+    color: rgb(0, 255, 13);
+}
+.my-class {
+    font-size: 12px;
+    color: rgb(255, 0, 106);
+}
+.my-class, .my-first-class {
+    border: 1px forestgreen solid;
+    
+}
+#someID {
+    color: deeppink;
+}
